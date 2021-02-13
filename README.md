@@ -10,7 +10,7 @@
 
 ### Contexto
 
-Carrinho desenvolvido em modo console application, sem banco de dados e como proposta de treinamento.
+Carrinho desenvolvido em modo console application, sem banco de dados como proposta de treinamento.
 
 
 <h4>Tecnologias</h4>
